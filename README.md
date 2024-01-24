@@ -7,3 +7,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/patrycja-gomza/patrycja-gomza/output/github-contribution-grid-snake.svg![image](https://github.com/patrycja-gomza/patrycja-gomza/assets/133165073/dc0f9e9b-eb96-4199-ad8a-c62fd4d46a91)" />
 </picture>
 
+###
+
