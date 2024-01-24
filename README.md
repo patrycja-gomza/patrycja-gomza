@@ -8,8 +8,8 @@
 # 💫 About Me :
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently building [Movie Browser](https://bedicooper.github.io/movies-browser/).
-- 🌱 I’m currently learning more about TypeScript.
-- 🏗️ With a strong background in civil engineering, I'm on a journey of continuous learning and development as a Frontend Developer. Eager to expand my skills and aspire towards becoming a Full Stack Developer.
+- 🏗️💻🎨 As a civil engineer passionate about Frontend Development, I blend technical foundations with creative skills. With practical expertise in crafting responsive websites and efficiently implementing construction projects, I aspire to grow as a Frontend Developer and advance to Full Stack Developer.
+- 🌱Eager to take on new challenges, I constantly expand my programming knowledge!
 - 🚀 Explore the fascinating realms of frontend development with me, delving into cutting-edge technologies, responsive web design, or user experience optimization. Let's ignite discussions on JavaScript frameworks like React, responsive design principles, or any other captivating aspects of the ever-evolving frontend landscape!
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I dedicate nearly 3 hours daily to the simple joys of delightful walks with my Shiba Inu companion. 🚶‍♂️🐾
