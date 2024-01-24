@@ -66,16 +66,16 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=patrycja-gomza&theme=react" />
 </p>
 
-<div align="center">
-
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=patrycja-gomza&icon=0&color=1)](https://visitcount.itsvg.in)
- 
+
+<div align="center">
+	
 ### Show some ❤️ by starring some of the repositories!
 </div>
+
 
  ###
 <picture>
